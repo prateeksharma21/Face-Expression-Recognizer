@@ -2,7 +2,7 @@
 Face Expression Recognizer is a Application which takes a video stream as input and plot the Emotion of the Person in images. This application is built using Keras and Flask for deployment. The Model achieves an accuracy of 77% with 100 epochs of training. The batch size used is 64.
 
 ## Dataset : 
-The Dataset used for Training the model is from [fer2013](https://www.kaggle.com/deadskull7/fer2013) which consist of 35886 images of seven univerasl emotions( *ANGER, DISGUST, FEAR, HAPPY, NEUTRAL, SAD, SURPRISE*). The Dataset is divided in 80% training images and 10% testing images. The images are 40x40 **Grayscale** images.
+The Dataset used for Training the model is from [fer2013](https://www.kaggle.com/deadskull7/fer2013) which consist of 35886 images of seven universal emotions( **Anger, Disgust, Fear, Happy, Neutral, Sad, Surprise**). The Dataset is divided in 80% training images and 20% testing images. The images are 40x40 **Grayscale** images.
 
 Some images in dataset are following:
 <p>
