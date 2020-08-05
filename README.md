@@ -82,13 +82,13 @@ Some images in dataset are following:
 ## Installation :
 Once You have cloned the Face Expression Recognizer then run the follwing command:
 
-Before running these commmand make sure that the path of video is correct in camera.py file. If you want to use webcam set path to 0.
-
      cd \path\to\Project\
      pip install pipenv
      pipenv install
      pipenv run python3 main.py
-     
+
+Before running these commmand make sure that the path of video is correct in camera.py file. If you want to use webcam set path to 0.
+
 After running these command open in browser 0.0.0.0:5000 to see the face reccognizer work.
 
 If you want to train the model yourself then first unzip the test and train folder and then run **facial_expression_training.py**
