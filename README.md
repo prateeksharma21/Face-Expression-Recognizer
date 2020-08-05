@@ -90,8 +90,8 @@ Before running these commmand make sure that the path of video is correct in cam
      
 After running these command open in browser 0.0.0.0:5000 to see the face reccognizer work.
 
-If you want to train the model yourself then first unzip the test and train folder
+If you want to train the model yourself then first unzip the test and train folder and then run **facial_expression_training.py**
 
     unzip train.zip
     unzip test.zip
-    
+    python3 facial_expression_training.py
