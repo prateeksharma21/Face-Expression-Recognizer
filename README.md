@@ -81,7 +81,8 @@ Some images in dataset are following:
     
 ## Installation :
 Once You have cloned the Face Expression Recognizer then run the follwing command:
-Before running these commmand make sure that the path of video is correct in camera.py file.
+
+Before running these commmand make sure that the path of video is correct in camera.py file. If you want to use webcam set path to 0.
 
      cd \path\to\Project\
      pip install pipenv
